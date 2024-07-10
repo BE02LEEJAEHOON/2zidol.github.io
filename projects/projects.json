@@ -2,7 +2,7 @@
   {
     "name": "MatchPoint App",
     "desc": "Django를 활용하여, 테니스 랭킹, 대회, 유저 관리까지 가능한 웹 어플리케이션을 개발하였습니다.",
-    "image": "intro",
+    "image": "matchpoint",
     "category": "Basic Web",
     "links": {
       "view": "https://www.match-point.co.kr/",
