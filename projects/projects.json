@@ -1,13 +1,24 @@
 [
-  {
-    "name": "MatchPoint App",
-    "desc": "Django를 활용하여, 테니스 랭킹, 대회, 유저 관리까지 가능한 웹 어플리케이션을 개발하였습니다.",
-    "image": "matchpoint",
-    "category": "Basic Web",
-    "links": {
-      "view": "https://www.match-point.co.kr/",
-      "link": "https://www.notion.so/Portfolio-Project-562a127538cf4f4483456207bfdacaa9",
-      "code": "https://github.com/Jeedoli/MatchPoint-Tennis-App/tree/develop"
-    }
-  }
+	{
+		"name": "MatchPoint App",
+		"desc": "Django를 활용하여, 테니스 랭킹, 대회, 유저 관리까지 가능한 웹 어플리케이션을 개발하였습니다.",
+		"image": "matchpoint",
+		"category": "Basic Web",
+		"links": {
+			"view": "https://www.match-point.co.kr/",
+			"link": "https://www.notion.so/d81c9f272f80492199141809917acd44?pvs=4",
+			"code": "https://github.com/Jeedoli/MatchPoint-Tennis-App/tree/develop"
+		}
+	},
+	{
+		"name": "Cheauda Project",
+		"desc": "시골 빈집의 새로운 주인을 연결하는 플랫폼 편리하게 빈집을 올리고 구매자와 판매자가 즉각적으로 소통할 수 있는 빈집 매매 플랫폼",
+		"image": "cheauda",
+		"category": "Basic Web",
+		"links": {
+			"view": "https://www.chaeuda.shop/",
+			"link": "https://www.notion.so/e0a849dda926464d9e65eb4d213467cc?pvs=4",
+			"code": "https://github.com/Jeedoli/cheauda_project"
+		}
+	}
 ]
